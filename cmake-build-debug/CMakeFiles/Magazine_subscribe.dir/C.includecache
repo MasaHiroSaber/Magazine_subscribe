@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MasaHiroSaber/CLionProjects/Magazine_subscribe/mag.h
+stdio.h
+-
+string.h
+-
+conio.h
+-
+stdlib.h
+-
+windows.h
+-
+time.h
+-
+
+C:/Users/MasaHiroSaber/CLionProjects/Magazine_subscribe/main.c
+mag.h
+C:/Users/MasaHiroSaber/CLionProjects/Magazine_subscribe/mag.h
+

@@ -1,0 +1,4 @@
+C:/Users/MasaHiroSaber/CLionProjects/Magazine_subscribe/cmake-build-debug/CMakeFiles/Magazine_subscribe.dir
+C:/Users/MasaHiroSaber/CLionProjects/Magazine_subscribe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/MasaHiroSaber/CLionProjects/Magazine_subscribe/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/MasaHiroSaber/CLionProjects/Magazine_subscribe/cmake-build-debug/CMakeFiles/edit_cache.dir
